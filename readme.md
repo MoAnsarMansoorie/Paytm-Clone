@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/Project---Paytm%20Clone-yellow)
 
-# [Link of deploy live project]()
+# [Link of deploy live project](https://paytmclonepage.netlify.app/)
 
 ![LCO](./landingpage.png)
 
