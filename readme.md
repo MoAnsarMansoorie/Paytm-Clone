@@ -6,7 +6,7 @@
 
 ![LCO](./landingpage.png)
 
-# What I learned from this project-04
+# What I learned from this project.
 
 - It is helpful to understand the cconcept the position.
 - It is helpful to understand flex.
